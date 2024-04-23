@@ -1,0 +1,9 @@
+express
+path
+url
+mongoose
+cookie-parser
+jsonwebtoken
+tailwind
+ws
+http

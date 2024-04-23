@@ -1,0 +1,9 @@
+.square {
+    width: auto;
+    height: calc(75vh / 8);
+    box-sizing: border-box;
+    position: relative;
+}
+#boardContainer {
+    height: 75vh;
+}
